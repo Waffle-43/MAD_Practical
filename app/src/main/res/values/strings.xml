@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IndividualQuiz</string>
+    <string name="welcome_to_math_quiz_app">Welcome to Maths Quiz</string>
+    <string name="improve_your_math_skills_with_fun_and_interactive_quizzes">Improve your math skills!</string>
+    <string name="compare_numbers">Play</string>
+    <string name="order_of_numbers">Ordering</string>
+    <string name="composition">Combining</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+
+        <item android:state_pressed="false">
+                <shape>
+                        <corners
+                            android:radius="14dp"
+                            />
+                        <padding
+                            android:left="10dp"
+                            android:top="10dp"
+                            android:right="10dp"
+                            android:bottom="10dp"
+                            />
+                        <size
+                            android:width="270dp"
+                            android:height="60dp"
+                            />
+                        <stroke
+                            android:width="1.5dp"
+                            android:color="#3F51B5"
+                            />
+                        <gradient
+                            android:startColor="#ADD8E6"
+                            android:endColor="#6495ED"
+                            android:angle="180" />
+                </shape>
+        </item>
+        <item android:state_pressed="true">
+                <shape >
+                        <corners
+                            android:radius="14dp"
+                            />
+                        <padding
+                            android:left="10dp"
+                            android:top="10dp"
+                            android:right="10dp"
+                            android:bottom="10dp"
+                            />
+                        <size
+                            android:width="270dp"
+                            android:height="60dp"
+                            />
+                        <stroke
+                            android:width="1.5dp"
+                            android:color="#000000"
+                            />
+                        <gradient
+                            android:startColor="#ADD8E6"
+                            android:endColor="#6495ED"
+                            android:angle="180" />
+
+                </shape>
+        </item>
+</selector>
+
+
